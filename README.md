@@ -1,2 +1,4 @@
-# Calculadora-de-viagem
-Calculadora desenvolvida em JS, podendo ser calculada somente alterando os valores declarados.
+# Calculadora de gasto em uma viagem. :money_mouth_face:
+
+- Calculadora desenvolvida em JS, podendo ser calculado o valor gasto em uma viagem.
+- Somente alterando os valores declarados.
