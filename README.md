@@ -1,4 +1,5 @@
-# Calculadora de gasto em uma viagem. :money_mouth_face:
+# Estudos. :book:
 
 - Calculadora desenvolvida em JS, podendo ser calculado o valor gasto em uma viagem.
-- Somente alterando os valores declarados.
+- Calculadora Imc.
+
