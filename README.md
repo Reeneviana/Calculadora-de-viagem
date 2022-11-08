@@ -1,4 +1,4 @@
-# Estudos. :book:
+# Estudos. :book: JS
 
 - Calculadora desenvolvida em JS, podendo ser calculado o valor gasto em uma viagem.
 - Calculadora Imc, se está abaixo do peso, peso ideal, obeso ou obesidade grave.
